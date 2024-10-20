@@ -1,4 +1,5 @@
-‏# STC Jawwy TV Data Analysis
+ <div dir="ltr"
+# STC Jawwy TV Data Analysis 
 
 ‏## Virtual Work Experience
 ‏During my virtual work experience with Skills Misk, I analyzed the data of the Jawwy TV application for STC. The focus was on understanding user behavior, building predictive models, and developing a recommendation system.
