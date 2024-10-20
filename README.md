@@ -1,4 +1,4 @@
- <div dir="ltr"
+\
                                                                                                                                                  # STC Jawwy TV Data Analysis 
 
 ‏## Virtual Work Experience
