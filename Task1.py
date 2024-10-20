@@ -1,6 +1,3 @@
-
-<h1 style="font-size:50px;">stc jawwe</h1>
-
 !pip install pyxlsb
 import pandas as pd
 import pyxlsb
