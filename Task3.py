@@ -1,9 +1,8 @@
-# STC Jawwy
 !pip install pyxlsb
 import pandas as pd    
 import pyxlsb          
 import numpy as np
-# Jawwy dataset
+
 dataframe = pd.read_excel("stc- Jawwy TV Data Set_T3.xlsb",index_col=0)
 dataframe.shape
 dataframe.head()
