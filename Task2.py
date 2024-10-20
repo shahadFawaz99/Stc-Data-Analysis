@@ -1,9 +1,8 @@
-**bold text**# STC Jawwy
 !pip install pyxlsb
 import pandas as pd
 import pyxlsb
 import numpy as np
-# Jawwy dataset
+
 The dataset includes total watching hours for customers per day
  required to work on predecting the forecast for the watching hours.
 dataframe = pd.read_excel("sts TV Data Set_T2.xlsx",index_col=0)
