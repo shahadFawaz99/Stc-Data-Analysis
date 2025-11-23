@@ -17,9 +17,9 @@ During my virtual work experience with **#SkillsMisk**, I analyzed the data of t
 - **Description:** Prepared and delivered a presentation summarizing the analysis results, predictive model, and recommendation system. The presentation included visualizations to effectively communicate findings to the audience.
 
 ## Key Achievements
-- **#ComprehensiveUserDataAnalysis:** Gained insights into viewer behaviors and preferences.
-- **#AccuratePredictiveModel:** Developed a forecasting model that predicts future viewing hours with high accuracy.
-- **#PersonalizedRecommendations:** Implemented a recommendation system to enhance user experience through tailored suggestions.
+- **ComprehensiveUserDataAnalysis:** Gained insights into viewer behaviors and preferences.
+- **AccuratePredictiveModel:** Developed a forecasting model that predicts future viewing hours with high accuracy.
+- **PersonalizedRecommendations:** Implemented a recommendation system to enhance user experience through tailored suggestions.
 
 ## Technologies Used
 - **#ProgrammingLanguage:** Python
