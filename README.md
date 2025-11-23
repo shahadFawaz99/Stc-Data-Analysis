@@ -24,17 +24,17 @@ During my virtual work experience with **#SkillsMisk**, I analyzed the data of t
 ## Technologies Used
 - **#ProgrammingLanguage:** Python
 - **#LibrariesUsed:**
-  - **#Pandas:** For data manipulation and analysis.
-  - **#NumPy:** For numerical computations.
-  - **#Plotly:** For interactive data visualization.
+  - **Pandas:** For data manipulation and analysis.
+  - **NumPy:** For numerical computations.
+  - **Plotly:** For interactive data visualization.
 
 ## Results and Insights
-- **#UserBehaviorPatterns:** Identified key trends that inform content strategy.
-- **#ForecastingOutcomes:** Generated forecasts that can assist in content planning and marketing efforts.
-- **#EffectiveRecommendations:** Enhanced user engagement through personalized content suggestions.
+- **UserBehaviorPatterns:** Identified key trends that inform content strategy.
+- **ForecastingOutcomes:** Generated forecasts that can assist in content planning and marketing efforts.
+- **EffectiveRecommendations:** Enhanced user engagement through personalized content suggestions.
 
 ## Acknowledgments
-I would like to thank **#SkillsMisk** for this opportunity and **#STC** for providing the data that contributed to the success of this analysis.
+I would like to thank **SkillsMisk** for this opportunity and **#STC** for providing the data that contributed to the success of this analysis.
 
 ## Contact Information
 For any inquiries or feedback, please contact me via email: [shahadfwaz2@gmail.com].
