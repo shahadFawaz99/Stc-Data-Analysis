@@ -4,16 +4,16 @@
 During my virtual work experience with **#SkillsMisk**, I analyzed the data of the **#JawwyTV** application for **#STC**. The focus was on understanding user behavior, building predictive models, and developing a recommendation system.
 
 ## Completed Tasks
-### Task 1: #UserBehaviorAnalysis
+### Task 1: UserBehaviorAnalysis
 - **Description:** Conducted a comprehensive analysis of user ratings data to understand user behaviors and preferences. Utilized exploratory data analysis techniques to identify trends and patterns in user interactions.
 
-### Task 2: #PredictiveModeling
+### Task 2: PredictiveModeling
 - **Description:** Developed a predictive model to forecast total watching hours using time series analysis. Implemented a **Seasonal Autoregressive Integrated Moving Average with eXogenous regressors (#SARIMAX)** model for accurate forecasting.
 
-### Task 3: #MachineLearningRecommendationSystem
+### Task 3: MachineLearningRecommendationSystem
 - **Description:** Built a recommendation system using machine learning techniques, specifically the **#KNearestNeighbors (#KNN)** algorithm, to provide personalized content suggestions based on user ratings.
 
-### Task 4: #FinalPresentation
+### Task 4: FinalPresentation
 - **Description:** Prepared and delivered a presentation summarizing the analysis results, predictive model, and recommendation system. The presentation included visualizations to effectively communicate findings to the audience.
 
 ## Key Achievements
