@@ -22,8 +22,8 @@ During my virtual work experience with **#SkillsMisk**, I analyzed the data of t
 - **PersonalizedRecommendations:** Implemented a recommendation system to enhance user experience through tailored suggestions.
 
 ## Technologies Used
-- **#ProgrammingLanguage:** Python
-- **#LibrariesUsed:**
+- **ProgrammingLanguage:** Python
+- **LibrariesUsed:**
   - **Pandas:** For data manipulation and analysis.
   - **NumPy:** For numerical computations.
   - **Plotly:** For interactive data visualization.
