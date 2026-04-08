@@ -33,8 +33,5 @@ During my virtual work experience with **#SkillsMisk**, I analyzed the data of t
 - **ForecastingOutcomes:** Generated forecasts that can assist in content planning and marketing efforts.
 - **EffectiveRecommendations:** Enhanced user engagement through personalized content suggestions.
 
-## Acknowledgments
-I would like to thank **SkillsMisk** for this opportunity and **#STC** for providing the data that contributed to the success of this analysis.
-
 ## Contact Information
 For any inquiries or feedback, please contact me via email: [shahadfwaz2@gmail.com].
